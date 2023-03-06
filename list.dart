@@ -7,4 +7,9 @@ main() {
   }
   List arr = [10, 30, 40];
   print(arr);
+  arr.insertAll(1, [20, 30]);
+  print(arr);
+  print(arr.reversed);
+  arr.removeRange(0, 3);
+  print(arr); //removed the elements 10 20 30
 }
