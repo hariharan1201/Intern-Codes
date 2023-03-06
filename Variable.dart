@@ -1,4 +1,5 @@
 void main() {
+  //Here done the print statement and variable declaration
   print("Agatsuma Zenitsu");
   dynamic a = 10;
   var b = 10;
