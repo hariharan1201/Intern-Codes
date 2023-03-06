@@ -10,5 +10,5 @@ main() {
   print(b.runtimeType);
   print(c.runtimeType);
   print(nope);
-  print(a > b ? "AAAAAAAA" : "Bbbbbbbb");
+  print(a > b ? "AAAAAAAA" : "Bbbbbbbb"); //Here complete the operators of dart
 }
