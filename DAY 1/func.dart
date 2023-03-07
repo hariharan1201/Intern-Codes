@@ -6,4 +6,5 @@ main() {
 dynamic add(dynamic value) {
   return value;
   //Return any data type because of dynamic type
+  //complete the methods
 }
