@@ -8,3 +8,4 @@ main() {
     print(n);
   });
 }
+//enumeration and  handling
