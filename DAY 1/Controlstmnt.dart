@@ -12,5 +12,5 @@ main() {
     print("Prime");
   } else {
     print("Non Prime");
-  }
+  } //DOne the control statement with prime number program
 }
