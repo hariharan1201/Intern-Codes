@@ -4,7 +4,7 @@ main() {
     print(lis[i]);
     print((lis[i]).runtimeType);
     print("-----------");
-  }
+  } //Loop for handling the array element
   List arr = [10, 30, 40];
   print(arr);
   arr.insertAll(1, [20, 30]);
