@@ -30,6 +30,7 @@ class _homepageState extends State<homepage> {
               child: Padding(
                 padding: const EdgeInsets.fromLTRB(5, 5, 5, 5),
                 child: InkWell(
+                  //inner container
                   child: Container(
                     // ignore: prefer_const_constructors
                     decoration: BoxDecoration(
