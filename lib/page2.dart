@@ -11,11 +11,10 @@ class page2 extends StatelessWidget {
       body: Center(
         child: Card(
           color: Colors.black,
-          child: TextButton(
-            child: const Text("Lets Go back"),
-            onPressed: () {
-              Navigator.pop(context);
-            },
+          child: Text(
+            "Lets go back",
+            style: TextStyle(color: Colors.white),
+          ),
         ),
       ),
     );
